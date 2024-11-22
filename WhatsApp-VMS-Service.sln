@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsApp-VMS-Service", "WhatsApp-VMS-Service\WhatsApp-VMS-Service.csproj", "{A7F829AA-D384-455C-B2A1-6F7AD74A4E61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7F829AA-D384-455C-B2A1-6F7AD74A4E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F829AA-D384-455C-B2A1-6F7AD74A4E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F829AA-D384-455C-B2A1-6F7AD74A4E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F829AA-D384-455C-B2A1-6F7AD74A4E61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28E51EB3-3A20-4B83-BD0E-68CC8ED26D88}
+	EndGlobalSection
+EndGlobal
